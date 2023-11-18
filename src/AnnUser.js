@@ -11,10 +11,17 @@ export default function AnnUser(){
 
     return(
         <div>
-            <Header />
-            <div className="annbody">
-                
-            </div>
-        </div>
-    )
+          <Header />
+          <div className="annbody">
+            <div className="background-image"></div>
+            <Paper elevation={3} className="search-bar-paper">
+              <SearchIcon className="search-icon" />
+              <InputBase placeholder="Search..." className="input-base" />
+              <Button variant="contained" color="primary" className="search-button">
+                Search
+              </Button>
+            </Paper>
+          </div>
+    </div>
+    );
 }
