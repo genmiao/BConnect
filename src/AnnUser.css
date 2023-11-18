@@ -1,0 +1,9 @@
+.annbody {
+    margin: 0;
+    padding: 0;
+    background-image: "tisalogo.png"; /* Update the path to your actual image file */
+    background-size: cover;
+    background-position: center;
+    font-family: 'Roboto', sans-serif; /* Add your preferred font-family */
+  }
+  

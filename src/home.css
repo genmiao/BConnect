@@ -1,0 +1,138 @@
+.gridItem {
+    width: auto;
+    height: 205px;
+    background-color:#B3C89D;
+  }
+
+  .imageStyle {
+    display: block;
+    margin: 0 auto;
+    opacity: 0.1; 
+    transform: translateY(-80px);
+    width: 700px; 
+    height: 480px; 
+  }
+
+  .imageStyle2 {
+    transform: translate(300px, -505px);
+    width: 350px; 
+    height: 290px; 
+  }
+
+  
+  .imageStyle3 {
+    transform: translate(510px, -730px);
+    width: 810px; 
+    height: 90px; 
+  }
+
+  .gridItem2 {
+    width: auto;
+    height: 1000px;
+    background-color:#F7F6BB;
+    justify-content: center; 
+    align-items: center; 
+
+  }
+
+  .btn1{
+    transform: translate(50px, -710px);
+    width:150px;
+  }
+
+  .btn2{
+    transform: translate(60px, -710px);
+    width:150px
+  }
+ 
+  .btn3{
+    transform: translate(70px, -710px);
+    width:150px
+  }
+ 
+  .btn4{
+    transform: translate(80px, -710px);
+    width:150px
+  }
+ 
+  .btn5{
+    transform: translate(90px, -710px);
+    width:150px
+  }
+ 
+  .btn6{
+    transform: translate(100px, -710px);
+    width:150px
+  }
+ 
+  .btn7{
+    transform: translate(110px, -710px);
+    width:150px
+  }
+  .btn8{
+    transform: translate(120px, -710px);
+    width:150px
+  }
+  .btn9{
+    transform: translate(130px, -710px);
+    width:150px
+  }
+  .btn10{
+    transform: translate(140px, -710px);
+    width:150px
+  }
+
+  .conbtn {
+    margin: auto;
+  }
+
+  .container {
+    width: 1000px;
+    height: 900px;
+    background-color: #fff;
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center; 
+    border-radius: 10px;
+    
+  }
+
+  .stmt1 {
+    margin-top: 50px;
+    margin-left: 20px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-size: 3rem;
+    color:#3E5F1B;
+  }
+
+  .stmt2 {
+    margin-top: 20px;
+    margin-left: 20px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color:#3E5F1B;
+  }
+  
+  .stmt3 {
+    margin-top: 70px;
+    margin-left: 50px;
+    margin-right: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-align: justify;
+    font-size: 24px;
+    font-weight: 500;
+  }
+  .stmt4 {
+    margin-left: 50px;
+    margin-right: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+ 
+  
